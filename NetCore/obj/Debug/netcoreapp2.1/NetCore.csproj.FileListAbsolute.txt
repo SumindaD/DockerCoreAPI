@@ -1,0 +1,14 @@
+C:\Users\suminda.desilva\source\repos\NetCore\NetCore\bin\Debug\netcoreapp2.1\NetCore.deps.json
+C:\Users\suminda.desilva\source\repos\NetCore\NetCore\bin\Debug\netcoreapp2.1\NetCore.runtimeconfig.json
+C:\Users\suminda.desilva\source\repos\NetCore\NetCore\bin\Debug\netcoreapp2.1\NetCore.runtimeconfig.dev.json
+C:\Users\suminda.desilva\source\repos\NetCore\NetCore\bin\Debug\netcoreapp2.1\NetCore.dll
+C:\Users\suminda.desilva\source\repos\NetCore\NetCore\bin\Debug\netcoreapp2.1\NetCore.pdb
+C:\Users\suminda.desilva\source\repos\NetCore\NetCore\obj\Debug\netcoreapp2.1\NetCore.csprojAssemblyReference.cache
+C:\Users\suminda.desilva\source\repos\NetCore\NetCore\obj\Debug\netcoreapp2.1\NetCore.csproj.CoreCompileInputs.cache
+C:\Users\suminda.desilva\source\repos\NetCore\NetCore\obj\Debug\netcoreapp2.1\NetCore.RazorAssemblyInfo.cache
+C:\Users\suminda.desilva\source\repos\NetCore\NetCore\obj\Debug\netcoreapp2.1\NetCore.RazorAssemblyInfo.cs
+C:\Users\suminda.desilva\source\repos\NetCore\NetCore\obj\Debug\netcoreapp2.1\NetCore.AssemblyInfoInputs.cache
+C:\Users\suminda.desilva\source\repos\NetCore\NetCore\obj\Debug\netcoreapp2.1\NetCore.AssemblyInfo.cs
+C:\Users\suminda.desilva\source\repos\NetCore\NetCore\obj\Debug\netcoreapp2.1\NetCore.RazorTargetAssemblyInfo.cache
+C:\Users\suminda.desilva\source\repos\NetCore\NetCore\obj\Debug\netcoreapp2.1\NetCore.dll
+C:\Users\suminda.desilva\source\repos\NetCore\NetCore\obj\Debug\netcoreapp2.1\NetCore.pdb

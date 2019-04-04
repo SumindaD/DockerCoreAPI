@@ -1,0 +1,23 @@
+{
+  "$schema": "http://json.schemastore.org/launchsettings.json",
+  "profiles": {
+    "NetCore": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "api/posts",
+      "environmentVariables": {
+        "DB_USER": "sa",
+        "DB_NAME": "BloggingDb",
+        "DB_PASSWORD": "1234",
+        "DB_SERVER": "./",
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "http://localhost:5000"
+    },
+    "Docker": {
+      "commandName": "Docker",
+      "launchBrowser": true,
+      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}"
+    }
+  }
+}
